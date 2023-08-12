@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?text=real%developer)
+![header](https://capsule-render.vercel.app/api?text=FE developer)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?soyoung008=highcontrast&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung008t&theme=highcontrast&show_icons=true)
